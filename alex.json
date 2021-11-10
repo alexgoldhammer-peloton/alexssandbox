@@ -1,0 +1,21 @@
+[
+  {
+    "traceID": 0x0BADBEEF,
+    "locale": EN-US,
+    "commandTranscribed": "pause video",
+    "topKAlternatives": "halt video"
+  },
+  {
+    "traceID": 0x1BADBEEF,
+    "locale": EN-US,
+    "commandTranscribed": "hide leaderboard",
+    "topKAlternatives": "hide whos here now"
+  },
+  {
+    "traceID": 0x2BADBEEF,
+    "locale": FR-FR,
+    "commandTranscribed": "cache leaderboard",
+    "topKAlternatives": "cache qui est la"
+  }
+
+]
